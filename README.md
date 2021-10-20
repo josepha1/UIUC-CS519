@@ -1,1 +1,1 @@
-# UIUC-CS519
+# CS519---Scientific Visualization
